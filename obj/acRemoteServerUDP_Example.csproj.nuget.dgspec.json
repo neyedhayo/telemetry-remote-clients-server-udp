@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lordmax/backend-projects/acRemoteServerUDP/acRemoteServerUDP_Example.csproj": {}
+  },
+  "projects": {
+    "/home/lordmax/backend-projects/acRemoteServerUDP/acRemoteServerUDP_Example.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lordmax/backend-projects/acRemoteServerUDP/acRemoteServerUDP_Example.csproj",
+        "projectName": "acRemoteServerUDP_Example",
+        "projectPath": "/home/lordmax/backend-projects/acRemoteServerUDP/acRemoteServerUDP_Example.csproj",
+        "packagesPath": "/home/lordmax/.nuget/packages/",
+        "outputPath": "/home/lordmax/backend-projects/acRemoteServerUDP/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/home/lordmax/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

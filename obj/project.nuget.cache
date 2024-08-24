@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/wk1y8S5oI=",
+  "success": true,
+  "projectFilePath": "/home/lordmax/backend-projects/acRemoteServerUDP/acRemoteServerUDP_Example.csproj",
+  "expectedPackageFiles": [
+    "/home/lordmax/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
